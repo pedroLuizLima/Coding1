@@ -1,0 +1,23 @@
+Repositório: local onde fica armazenado o código e arquivos relacionados a ele, para edição, visualização e exposição; 
+
+README: caixa de texto que fica exposto no repositório, geralmente em html ou markdown; 
+
+vscode: IDE 
+
+terminal que representa o servidor ou console. 
+
+  
+
+instalar bibliotecas e dependências 
+
+  
+
+instalar gerenciador npm 
+
+-npm init -y 
+
+  
+
+instalar o node 
+
+-npm install(i) node 
